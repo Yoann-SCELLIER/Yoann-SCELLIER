@@ -1,16 +1,23 @@
-### Hi there 👋
+### Bonjour, je m'appelle Yoann.
 
-<!--
-**Yoann-SCELLIER/Yoann-SCELLIER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actuellement en formation en développement web et web mobile chez SIMPLON, voici quelques-unes de mes passions:
 
-Here are some ideas to get you started:
+<ul>
+  <li>Programmation</li>
+  <li>Informatique</li>
+  <li>Musique</li>
+  <li>Guitare & Basse</li>
+  <li>Jeux-vidéo</li>
+  <li>Cinéma</li>
+  <li>Randonnée</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+J'ai acquis des compétences dans le domaine du développement web comme:
+
+<ul>
+  <li>HTML 5</li>
+  <li>CSS 3</li>
+  <li>JavaScript</li>
+</ul>
+
+Si vous souhaitez en savoir plus ou collaborer, n'hésitez pas à me contacter en message privé. Je serais ravi de participer à divers projets avec vous !
