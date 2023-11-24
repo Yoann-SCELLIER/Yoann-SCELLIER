@@ -21,3 +21,7 @@ J'ai acquis des compétences dans le domaine du développement web comme:
 </ul>
 
 Si vous souhaitez en savoir plus ou collaborer, n'hésitez pas à me contacter en message privé. Je serais ravi de participer à divers projets avec vous !
+
+**RESEARCH**
+
+*Stage d'apprentissage pour perfectionnement*
